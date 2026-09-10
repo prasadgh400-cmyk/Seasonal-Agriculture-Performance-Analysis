@@ -1,0 +1,4 @@
+Season,Records,Avg_Yield,Median_Yield,Avg_Production,Avg_Rainfall,Avg_Temperature,Avg_Humidity,Avg_Soil_Moisture,Avg_Water_Efficiency,Avg_Profit,Median_Profit,Avg_Risk
+Kharif,1779,5.63,1.94,46.31,852.11,28.45,71.81,31.2,5.89,178914.65,38808.0,54.47
+Rabi,1627,5.09,1.66,41.49,435.94,23.49,57.89,24.05,5.19,87689.47,-3187.0,40.48
+Zaid,594,4.63,1.45,38.89,299.12,31.04,52.01,19.17,4.41,-24804.82,-62144.0,38.22

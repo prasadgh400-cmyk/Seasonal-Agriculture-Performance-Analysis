@@ -1,0 +1,4 @@
+Season,Records,Avg_Yield,Median_Yield,Avg_Production,Avg_Rainfall,Avg_Temperature,Avg_Humidity,Avg_Soil_Moisture,Avg_Fertilizer,Avg_Pesticide,Avg_Water_Used,Avg_Water_Efficiency,Avg_Cost,Avg_Revenue,Avg_Profit,Median_Profit,Avg_Disease_Pest_Risk
+Kharif,1779,5.63,1.94,46.31,852.11,28.45,71.81,31.2,187.08,5.08,6102.2,5.89,531804.41,710719.06,178914.65,38808.0,54.47
+Rabi,1627,5.09,1.66,41.49,435.94,23.49,57.89,24.05,185.41,5.02,5846.99,5.19,513836.58,601526.05,87689.47,-3187.0,40.48
+Zaid,594,4.63,1.45,38.89,299.12,31.04,52.01,19.17,184.64,5.17,6419.89,4.41,543976.73,519171.9,-24804.82,-62144.0,38.22

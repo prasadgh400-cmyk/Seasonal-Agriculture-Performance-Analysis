@@ -1,0 +1,5 @@
+Metric,H statistic,p-value,Decision
+Yield,70.59354497430894,4.686045270093256e-16,Significant
+Profit,101.92605491126021,7.362721866797111e-23,Significant
+Water efficiency,56.811480600649986,4.608331719759396e-13,Significant
+Disease/pest risk,1430.9101341246858,1.913428882117e-311,Significant

@@ -1,0 +1,13 @@
+Season,Irrigation_Method,Records,Avg_Yield,Avg_Water_Efficiency,Avg_Profit
+Kharif,Drip,405,7.26,6.8,317222.07
+Kharif,Flood,590,4.98,3.64,133373.83
+Kharif,Rainfed,463,5.7,8.85,158974.13
+Kharif,Sprinkler,321,4.67,4.62,116880.49
+Rabi,Drip,370,6.35,6.05,187843.22
+Rabi,Flood,526,5.06,3.48,58824.8
+Rabi,Rainfed,438,3.93,6.87,45232.48
+Rabi,Sprinkler,293,5.3,4.64,76502.07
+Zaid,Drip,140,5.85,5.3,21291.84
+Zaid,Flood,194,3.97,2.73,-69786.78
+Zaid,Rainfed,140,3.06,5.48,-79467.26
+Zaid,Sprinkler,120,6.13,4.86,57909.4
